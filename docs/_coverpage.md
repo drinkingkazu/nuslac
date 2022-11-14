@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/Patrick_Star.svg)
 
 # SLAC Neutrino Group
 
@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/drinkingkazu/nuslac/)
-[Get Started](#README)
+[Get Started](#Test)
